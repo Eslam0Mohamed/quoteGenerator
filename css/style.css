@@ -1,0 +1,22 @@
+.conainer{
+padding: 0 15px;
+margin: 0 30px;
+width: 80%;
+text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+p{
+    font-size: 25px;
+}
+button{
+    font-size: 22px;
+    background-color: black;
+    color: #f1f1f1;
+    padding: 10px 20px;
+    border-radius: 24px;
+    cursor: pointer;
+}
